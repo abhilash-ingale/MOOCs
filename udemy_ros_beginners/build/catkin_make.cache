@@ -1,2 +1,0 @@
-ros_essentials_cpp
--DCATKIN_DEVEL_PREFIX=/home/abhilash/GitCode/MOOCs/udemy_ros_beginners/devel -DCMAKE_INSTALL_PREFIX=/home/abhilash/GitCode/MOOCs/udemy_ros_beginners/install -G Unix Makefiles
