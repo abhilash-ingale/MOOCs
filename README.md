@@ -7,3 +7,4 @@ Code and reference material for all the MOOCs completed / in-progress
 
 ## In-Progress ⌛
 1. ROS for Beginners (Udemy, Instructor: Anis Koubaa)
+2. Autonomous Mobile Robots (edX, Institute: ETH Zurich)
