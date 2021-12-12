@@ -8,7 +8,8 @@ Code and reference material for all the MOOCs completed / in-progress
 ### In-Progress ⌛
 1. ROS for Beginners (Udemy, Instructor: Anis Koubaa)
 2. Autonomous Mobile Robots (edX, Institute: ETH Zurich)
+3. Practical Reinforcement Learning (Coursera, Institute: HSE)
 
-### Planned
+### Planned 📅
 1. Robotics Specialization (Coursera, Institute: Northwestern University)
 2. Control of Mobile Robots (Coursera, Institue: Georgia Tech)
